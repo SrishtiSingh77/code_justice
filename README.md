@@ -32,9 +32,6 @@
         <li>Managing Account: Registered users can log in to their accounts to manage bookings, view appointment history, update profile information, and more.</li>
         <li>Rating and Reviews: After attending appointments, users can rate and leave reviews for lawyers to share their experiences with others.</li>
     </ul>
- <h2>5. Support:</h2>
-    <p>For any assistance, feedback, or inquiries regarding the Lawyer Booking Website, please contact our support team at <a href="mailto:support@example.com">support@example.com</a>.</p>
- <h2>6. Contributing:</h2>
     <p>We welcome contributions from the community to enhance the features and functionality of our platform. If you're interested in contributing, please refer to the contribution guidelines provided in the repository.</p>
  <p>Thank you for choosing our Lawyer Booking Website. We hope it serves you well in finding the legal assistance you need.</p>
 </body>
